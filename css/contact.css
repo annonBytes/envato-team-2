@@ -54,3 +54,8 @@
     padding: 0 1rem !important;
   }
 }
+*,
+html,
+body {
+  scroll-behavior: smooth;
+}

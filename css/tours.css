@@ -11,3 +11,9 @@
 .fa-long-arrow-right {
   cursor: pointer;
 }
+
+*,
+html,
+body {
+  scroll-behavior: smooth;
+}
